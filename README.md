@@ -24,24 +24,24 @@ This is an Elearning Platform built using the MERN (MongoDB, Express.js, React.j
 - **Chakra-UI**: React components for implementing Google's Material Design.
 
 ### Home Page
-![Home Page](/screenshots/home_page.png)
+![Home Page](/screenshots/1.png)
 
 ### Sign Up Page
-![Sign Up Page](/screenshots/signup_page.png)
+![Sign Up Page](/screenshots/2.png)
 
 ### Login Page
-![Login Page](/screenshots/login_page.png)
+![Login Page](/screenshots/3.png)
 
 ### User Dashboard
-![User Dashboard](/screenshots/user_dashboard.png)
+![User Dashboard](/screenshots/4.png)
 
 ### Admin Dashboard
-![Admin Dashboard](/screenshots/admin_dashboard.png)
+![Admin Dashboard](/screenshots/5.png)
 
 ### User Shown to Admin
-![User Shown to Admin](/screenshots/user_shown_to_admin.png)
+![User Shown to Admin](/screenshots/6.png)
 
-### All Courses Shown to Admin
+<!-- ### All Courses Shown to Admin
 ![All Courses Shown to Admin](/screenshots/all_courses_admin.png)
 
 ### Courses Overview
@@ -54,14 +54,14 @@ This is an Elearning Platform built using the MERN (MongoDB, Express.js, React.j
 ![All Courses Available](/screenshots/all_courses_available.png)
 
 ### User Enrolled Courses
-![User Enrolled Courses](/screenshots/user_enrolled_courses.png)
+![User Enrolled Courses](/screenshots/user_enrolled_courses.png) -->
 
 ## Installation
 
 1. Clone the repository:
 
 ```bash
-https://github.com/Sai-Chakradhar-Mahendrakar/Elearning-Platform-Using-MERN.git
+https://github.com/
 ```
 
 2. Navigate to the project directory:
