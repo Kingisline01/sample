@@ -41,13 +41,13 @@ This is an Elearning Platform built using the MERN (MongoDB, Express.js, React.j
 ### User Shown to Admin
 ![User Shown to Admin](/screenshots/6.png)
 
-<!-- ### All Courses Shown to Admin
-![All Courses Shown to Admin](/screenshots/all_courses_admin.png)
+### All Courses Shown to Admin
+![All Courses Shown to Admin](/screenshots/7.png)
 
 ### Courses Overview
-![Courses Overview](/screenshots/courses_overview.png)
+![Courses Overview](/screenshots/8.png)
 
-### Payment Gateway
+<!-- ### Payment Gateway
 ![Payment Gateway](/screenshots/payment_gateway.png)
 
 ### All Courses Available
